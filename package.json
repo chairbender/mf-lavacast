@@ -12,7 +12,9 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "mineflayer": "^4.29.0"
+    "canvas": "^3.1.0",
+    "mineflayer": "^4.29.0",
+    "prismarine-viewer": "^1.33.0"
   },
   "devDependencies": {
     "@types/node": "^22.15.21",
